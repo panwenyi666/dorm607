@@ -1,0 +1,8 @@
+body{
+    background-image: url("dormimage/background2.jpeg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: #FFFFFF;
+}
+.zoom-image {transition: transform 0.3s ease;}
+.zoom-image:hover {transform: scale(1.1);}
